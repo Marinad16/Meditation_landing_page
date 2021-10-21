@@ -1,0 +1,38 @@
+.start-section {
+  background-image: url(../images/bg.jpg);
+  width: 100%;
+  height: 1175px;
+}
+
+.page-title {
+  font-family: $heading-font;
+  color: $accent-white-color;
+  font-weight: normal;
+  font-size: 68px;
+  line-height: 88.4px;
+  text-align: center;
+  padding-top: 70px;
+  margin: 0;
+}
+
+.title-description {
+  width: 1109px;
+  margin: 22px auto;
+  text-align: center;
+  color: $primary-lighter-color;
+}
+
+.page-button {
+  display: block;
+  width: 300px;
+  height: 75px;
+  background: $accent-color;
+  box-shadow: 0px 20px 40px rgba(21, 113, 101, 0.2);
+  border-radius: 50px;
+  color: $accent-white-color;
+  text-decoration: none;
+  font-size: 30px;
+  line-height: 39px;
+  padding: 19px 89px;
+  margin: 30px auto;
+}
